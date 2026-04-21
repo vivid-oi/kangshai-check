@@ -9,3 +9,4 @@ lightgbm
 openpyxl
 plotly
 matplotlib
+joblib
